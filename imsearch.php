@@ -109,10 +109,12 @@
 									</span>
 								</a>
 							</li>
-							<li id="imMnMnNode18" class="imMnMnSeparator imMnMnMiddle">
-								<span class="imMnMnBorder">
-									<span class="imMnMnTxt"><span class="imMnMnImg"></span>Технические характеристики</span>
-								</span>
+							<li id="imMnMnNode28" class="imMnMnMiddle">
+								<a href="page-28.html">
+									<span class="imMnMnBorder">
+										<span class="imMnMnTxt"><span class="imMnMnImg imMnMnCustomImg"><img class="imMnMnDefaultIcon" src="images/colba.GIF" alt="" /><img class="imMnMnHoverIcon" src="images/colba.GIF" alt="" /></span>Технические характеристики</span>
+									</span>
+								</a>
 							</li>
 							<li id="imMnMnNode21" class="imMnMnMiddle">
 								<a href="page-21.html">
@@ -151,14 +153,28 @@
 							</li>
 						</ul>
 					</li>
-					<li id="imMnMnNode16">
-						<a href="page-16.html">
-							<span class="imMnMnFirstBg">
-								<span class="imMnMnTxt"><span class="imMnMnImg"></span>Контакты</span>
-							</span>
-						</a>
+					<li id="imMnMnNode25">
+						<span class="imMnMnFirstBg">
+							<span class="imMnMnTxt"><span class="imMnMnImg"></span>Проект 2<span class="imMnMnLevelImg"></span></span>
+						</span>
+						<ul class="auto">
+							<li id="imMnMnNode27" class="imMnMnFirst">
+								<a href="page-27.html">
+									<span class="imMnMnBorder">
+										<span class="imMnMnTxt"><span class="imMnMnImg"></span>Общие сведения</span>
+									</span>
+								</a>
+							</li>
+							<li id="imMnMnNode29" class="imMnMnLast">
+								<a href="page-29.html">
+									<span class="imMnMnBorder">
+										<span class="imMnMnTxt"><span class="imMnMnImg"></span>Технические характеристики</span>
+									</span>
+								</a>
+							</li>
+						</ul>
 					</li>
-				</ul><script type="text/javascript">x5engine.imQueue.push_init("x5engine.utils.imPreloadImages(['menu/index_h.png','menu/---------_h.png','menu/page-16_h.png','menu/sub.png','menu/sub_h.png','menu/sub_f.png','menu/sub_f_h.png','menu/sub_l.png','menu/sub_l_h.png','menu/sub_m.png','menu/sub_m_h.png','res/imLoad.gif','res/imClose.png'])",false);</script>
+				</ul><script type="text/javascript">x5engine.imQueue.push_init("x5engine.utils.imPreloadImages(['menu/index_h.png','menu/---------_h.png','menu/-------2_h.png','menu/sub.png','menu/sub_h.png','menu/sub_f.png','menu/sub_f_h.png','menu/sub_l.png','menu/sub_l_h.png','menu/sub_m.png','menu/sub_m_h.png','res/imLoad.gif','res/imClose.png'])",false);</script>
 				
 			</div>
 			<div id="imContentGraphics"></div>

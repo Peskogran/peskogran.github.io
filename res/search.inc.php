@@ -15,13 +15,15 @@ $imSettings['search']['general'] = array(
 		'12' => 'page-12.html',
 		'13' => 'page-13.html',
 		'15' => 'page-15.html',
-		'16' => 'page-16.html',
 		'19' => 'page-19.html',
 		'20' => 'page-20.html',
 		'21' => 'page-21.html',
 		'22' => 'page-22.html',
 		'23' => 'page-23.html',
-		'24' => 'page-24.html'
+		'24' => 'page-24.html',
+		'27' => 'page-27.html',
+		'28' => 'page-28.html',
+		'29' => 'page-29.html'
 	),
 	'extendedScope' => array(
 	)
