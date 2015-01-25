@@ -49,7 +49,7 @@
 							<li id="imMnMnNode15" class="imMnMnFirst">
 								<a href="page-15.html">
 									<span class="imMnMnBorder">
-										<span class="imMnMnTxt"><span class="imMnMnImg"></span>Что такое пескогран</span>
+										<span class="imMnMnTxt"><span class="imMnMnImg"></span>Что такое  ПЕСКОГРАН</span>
 									</span>
 								</a>
 							</li>
@@ -98,7 +98,7 @@
 							<li id="imMnMnNode12" class="imMnMnMiddle">
 								<a href="page-12.html">
 									<span class="imMnMnBorder">
-										<span class="imMnMnTxt"><span class="imMnMnImg"></span>Маркировка</span>
+										<span class="imMnMnTxt"><span class="imMnMnImg"></span>Торговая маркировка</span>
 									</span>
 								</a>
 							</li>
@@ -113,13 +113,6 @@
 								<a href="page-28.html">
 									<span class="imMnMnBorder">
 										<span class="imMnMnTxt"><span class="imMnMnImg imMnMnCustomImg"><img class="imMnMnDefaultIcon" src="images/colba.GIF" alt="" /><img class="imMnMnHoverIcon" src="images/colba.GIF" alt="" /></span>Технические характеристики</span>
-									</span>
-								</a>
-							</li>
-							<li id="imMnMnNode21" class="imMnMnMiddle">
-								<a href="page-21.html">
-									<span class="imMnMnBorder">
-										<span class="imMnMnTxt"><span class="imMnMnImg"></span>Торговая марка</span>
 									</span>
 								</a>
 							</li>
@@ -174,7 +167,17 @@
 							</li>
 						</ul>
 					</li>
-				</ul><script type="text/javascript">x5engine.imQueue.push_init("x5engine.utils.imPreloadImages(['menu/index_h.png','menu/---------_h.png','menu/-------2_h.png','menu/sub.png','menu/sub_h.png','menu/sub_f.png','menu/sub_f_h.png','menu/sub_l.png','menu/sub_l_h.png','menu/sub_m.png','menu/sub_m_h.png','res/imLoad.gif','res/imClose.png'])",false);</script>
+					<li id="imMnMnNode30">
+						<span class="imMnMnFirstBg">
+							<span class="imMnMnTxt"><span class="imMnMnImg"></span>Проект 3</span>
+						</span>
+					</li>
+					<li id="imMnMnNode31">
+						<span class="imMnMnFirstBg">
+							<span class="imMnMnTxt"><span class="imMnMnImg"></span>Проект 4</span>
+						</span>
+					</li>
+				</ul><script type="text/javascript">x5engine.imQueue.push_init("x5engine.utils.imPreloadImages(['menu/index_h.png','menu/---------_h.png','menu/-------2_h.png','menu/-------3_h.png','menu/-------4_h.png','menu/sub.png','menu/sub_h.png','menu/sub_f.png','menu/sub_f_h.png','menu/sub_l.png','menu/sub_l_h.png','menu/sub_m.png','menu/sub_m_h.png','res/imLoad.gif','res/imClose.png'])",false);</script>
 				
 			</div>
 			<div id="imContentGraphics"></div>

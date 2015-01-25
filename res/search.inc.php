@@ -17,7 +17,6 @@ $imSettings['search']['general'] = array(
 		'15' => 'page-15.html',
 		'19' => 'page-19.html',
 		'20' => 'page-20.html',
-		'21' => 'page-21.html',
 		'22' => 'page-22.html',
 		'23' => 'page-23.html',
 		'24' => 'page-24.html',
