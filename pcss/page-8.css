@@ -1,7 +1,7 @@
 h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 668px;}
 #imBreadcrumb {float: left; margin-left: 6px; margin-right: 6px; width: 668px;}
-#imCell_1 { display: block; position: relative; overflow: hidden; width: 674px; min-height: 542px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
-#imCellStyle_1 { position: relative; width: 668px; min-height: 536px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
+#imCell_1 { display: block; position: relative; overflow: hidden; width: 674px; min-height: 310px; border-top: 3px solid transparent; border-bottom: 3px solid transparent; border-left: 3px solid transparent; border-right: 3px solid transparent;}
+#imCellStyle_1 { position: relative; width: 668px; min-height: 304px; padding: 3px 3px 3px 3px; text-align: center; border-top: 0; border-bottom: 0; border-left: 0; border-right: 0; z-index: 2;}
 #imCellStyleGraphics_1 { position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: transparent;}
 #imTextObject_1 { line-height: 1px; font-size: 1pt; font-style: normal; color: black; font-weight: normal; }
 #imTextObject_1 a { color: inherit; }
@@ -21,7 +21,6 @@ h2#imPgTitle {float: left; margin-left: 6px; margin-right: 6px; width: 668px;}
 #imTextObject_1 .cf3 { color: #000000; }
 #imTextObject_1 .fs20 { vertical-align: baseline; font-size: 10pt; line-height: 20px; }
 #imTextObject_1 .fs18 { vertical-align: baseline; font-size: 9pt; line-height: 19px;}
-#imTextObject_1 .fs24 { vertical-align: baseline; font-size: 12pt; line-height: 23px;}
 #imTextObject_1 .cb1 { background-color: #000000; }
 #imTextObject_1 .cb2 { background-color: transparent; }
 #imTextObject_1 .cb3 { background-color: #000000; }

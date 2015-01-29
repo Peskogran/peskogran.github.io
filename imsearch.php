@@ -70,14 +70,14 @@
 							<li id="imMnMnNode8" class="imMnMnMiddle">
 								<a href="page-8.html">
 									<span class="imMnMnBorder">
-										<span class="imMnMnTxt"><span class="imMnMnImg"></span>Сырье и оборудование</span>
+										<span class="imMnMnTxt"><span class="imMnMnImg"></span>Сырьевые компоненты</span>
 									</span>
 								</a>
 							</li>
 							<li id="imMnMnNode9" class="imMnMnMiddle">
 								<a href="page-9.html">
 									<span class="imMnMnBorder">
-										<span class="imMnMnTxt"><span class="imMnMnImg"></span>Оборудование для производства</span>
+										<span class="imMnMnTxt"><span class="imMnMnImg"></span>Оборудование</span>
 									</span>
 								</a>
 							</li>
